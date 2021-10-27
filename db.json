@@ -38,13 +38,13 @@
     {
       "id": 1,
       "username": "adminEmpresa",
-      "password": "adminEmpresa",
+      "name": "Usuario Administrativo de Empresa",
       "type": "2"
     },
     {
       "id": 2,
       "username": "adminUser",
-      "password": "adminUser",
+      "name": "Usuario Administrativo Comun",
       "type": "1"
     }
   ],
